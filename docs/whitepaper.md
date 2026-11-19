@@ -27,7 +27,8 @@ monument looked like this:
 We are healthy only to the extent that our ideas are humane.
 :::
 
-![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
+
+![A picture of a zombie with its arms wrapped around a tree](/img/lei-hwang-ryKdGtawCgc-unsplash.jpg)
 
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
