@@ -26,6 +26,7 @@ monument looked like this:
 :::tip[Kilgore Trout, 1907–1981]
 We are healthy only to the extent that our ideas are humane.
 :::
+<iframe title="[ Insert title here ]" aria-label="Bar Chart" id="datawrapper-chart-duHuv" src="https://datawrapper.dwcdn.net/duHuv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="200" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
 
 
 ![A picture of a zombie with its arms wrapped around a tree](/img/lei-hwang-ryKdGtawCgc-unsplash.jpg)
